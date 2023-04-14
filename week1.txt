@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 file week1.txt thuoc brach week1 ma thoi
+=======
+file week1.txt thuoc brach week1 va main
+>>>>>>> main
